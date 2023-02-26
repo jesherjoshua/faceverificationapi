@@ -1,4 +1,22 @@
-# FaceVerification API
+<h1 align=center>Face API</h1>
+<p align=center>provide 2 faces and return 'Yes' or 'No' if it matches or not</p>
+<div align='center'>
+  
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jesherjoshua/faceverificationapi?logo=github&style=for-the-badge)](https://github.com/jesherjoshua/faceverificationapi)
+[![Languages](https://img.shields.io/github/languages/count/jesherjoshua/faceverificationapi?style=for-the-badge)](https://github.com/jesherjoshua/faceverificationapi)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jesherjoshua/faceverificationapi?style=for-the-badge&logo=git)](https://github.com/jesherjoshua/faceverificationapi)
+
+<h2>Built With</h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+</div>
+
 
 This is a Python-based API for face verification using an embedding-based methodology and ResNet50 to create the embeddings. The API consists of two main files: `main.py` and `requirements.txt`.
 
