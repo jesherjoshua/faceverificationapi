@@ -1,0 +1,7 @@
+google-cloud-storage>=1.16.1
+mtcnn
+keras
+tensorflow
+scipy
+Pillow
+opencv-python
