@@ -42,7 +42,7 @@ ResNet50 is used as the neural network architecture to extract the embeddings. T
 This API was created using the following libraries:
 
 * Google Cloud: for building the API
-* Pillow: for image processing
+* OpenCV: for image processing
 * TensorFlow: for deep learning
 * numpy: for numerical operations
 
